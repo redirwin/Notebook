@@ -1,6 +1,6 @@
-**Objects have properties & methods (functionality)**
+**Objects have properties & methods (functionality).**
 
 DVD Player
-..* Properties
-.. ..* Height
-.. ..* Weight
+* Properties
+..* Height
+..* Weight
