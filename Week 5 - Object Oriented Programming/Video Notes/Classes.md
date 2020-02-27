@@ -1,6 +1,6 @@
 [Classes video](https://youtu.be/Iw9UN8oZ2h8)
 
-```
+```java
 // use "new" keyword to create new instance
 StingBuilder name = new StringBuilder();
 // class            object (instance of class)
@@ -8,7 +8,7 @@ StingBuilder name = new StringBuilder();
 
 ### Creating Classes
 
-```
+```java
 public class Student {
 // classes use Pascal case
 
@@ -68,7 +68,7 @@ public class Classes {
 
 ### Using dot notation can become cumbersome, so classes have constructor methods.
 
-```
+```java
 // To create a constructor in the class:
 
 public Student() {} // overloaded version makes this available instead of Java's default
