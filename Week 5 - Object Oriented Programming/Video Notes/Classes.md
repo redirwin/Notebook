@@ -29,7 +29,6 @@ public class Student {
 		System.out.println("I am in grade " + gradeLevel);
 		System.out.println("My phone number is " + phoneNumber);
 	}
-
 }
 
 public class Classes {
@@ -65,7 +64,6 @@ public class Classes {
 		// My phone number is 555-555-5555
 
 	}
-
 }
 
 ```
