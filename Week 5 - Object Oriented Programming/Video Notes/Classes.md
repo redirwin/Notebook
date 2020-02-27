@@ -65,7 +65,6 @@ public class Classes {
 
 	}
 }
-
 ```
 
 ### Using dot notation can become cumbersome, so classes have constructor methods.
