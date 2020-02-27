@@ -1,24 +1,15 @@
+
 **Objects have properties & methods (functionality).**
 
 **DVD Player**
-Properties
-* Height
-* Weight
-* Width
-* Color
-Functionality
-* Play
-* Fast forward
-* Rewind
-* Pause
+| Properties | Functionality |
+|--|--|
+| height, weight, width, color | play, fast-forward, rewind, pause |
 
-**DVD** 
-Properties
-* Movie length
-* Image
-* Size
-Functionality
-* Store
+**DVD**
+|Properties|Functionality|
+|--|--|
+|movie length, image, size  |store  |
 
 ### Four pillars of OOP:
 
