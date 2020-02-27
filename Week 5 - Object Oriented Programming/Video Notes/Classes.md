@@ -4,7 +4,6 @@
 // use "new" keyword to create new instance
 StingBuilder name = new StringBuilder();
 // class            object (instance of class)
-
 ```
 
 ### Creating Classes
